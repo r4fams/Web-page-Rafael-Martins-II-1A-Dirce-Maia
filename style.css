@@ -2,10 +2,16 @@
 header {
 	width: 700px;
 	margin: auto;
+}
+
+.menu {
+	width: 700px;
+	margin: auto;
 	position: absolute;
 	top: 0;
 	left: 150px ;
-}
+} 
+
 
 #banner{  
 	width: 100%;
