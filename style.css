@@ -1,3 +1,13 @@
+html {
+	width: 1000px;
+	margin: auto;
+}
+
+
+body {	
+	width: 1000px;
+	position: relative;
+}
 
 header {
 	width: 700px;
