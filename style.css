@@ -1,11 +1,11 @@
 html {
-	width: 1500px;
+	width: 2300px;
 	margin: auto;
 }
 
 
 body {	
-	width: 1500px;
+	width: 2300px;
 	position: relative;
 }
 
@@ -19,7 +19,6 @@ header {
 	margin: auto;
 	position: absolute;
 	top: 0;
-	left: 150px ;
 } 
 
 
